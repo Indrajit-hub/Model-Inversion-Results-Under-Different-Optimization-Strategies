@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="images/visual_set_1_1.png" width="600">
+  <img src="images/visual_set_1_1.png" width="1000">
 </p>
 
 **Figure 1:** Reconstructed class prototypes using different optimizers (SGD, RMSprop, Adam, AdamW, AdaBelief, L-BFGS).
