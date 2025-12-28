@@ -9,7 +9,7 @@ DOI: 10.1145/2810103.2813677
 Original experimental results:
 https://github.com/mfredrik/facematch
 ##
-This repository explores model inversion attacks using different optimization techniques. By varying the optimizer during the inversion process, we retrieve and compare reconstructed results to understand how optimization choices affect attack effectiveness.
+We explores model inversion attacks using different optimization techniques. By varying the optimizer during the inversion process, we retrieve and compare reconstructed results to understand how optimization choices affect attack effectiveness.
 <p align="center">
   <img src="images/visual_set_1_1.png" width="1000">
 </p>
