@@ -1,8 +1,15 @@
 # Model-Inversion-Results-Under-Different-Optimization-Strategies
 
+This repository provides an partial implementation of the paper:
+Matt Fredrikson, Somesh Jha, and Thomas Ristenpart (2015)
+Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures
+Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security (CCS ’15), pp. 1322–1333.
+DOI: 10.1145/2810103.2813677
 
-
-
+Original experimental results:
+https://github.com/mfredrik/facematch
+##
+This repository explores model inversion attacks using different optimization techniques. By varying the optimizer during the inversion process, we retrieve and compare reconstructed results to understand how optimization choices affect attack effectiveness.
 <p align="center">
   <img src="images/visual_set_1_1.png" width="1000">
 </p>
