@@ -1,8 +1,8 @@
 # Model-Inversion-Results-Under-Different-Optimization-Strategies
 
 This repository provides an partial implementation of the paper:
-Matt Fredrikson, Somesh Jha, and Thomas Ristenpart (2015)
-Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures
+"Matt Fredrikson, Somesh Jha, and Thomas Ristenpart (2015)
+Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures"
 Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security (CCS ’15), pp. 1322–1333.
 DOI: 10.1145/2810103.2813677
 
